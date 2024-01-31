@@ -2,13 +2,13 @@ Hallo Nama Saya FebryEnsz
 
 Jika Ingin Menggunakan Tools Ini Berikut Commandnya
 
-# git clone
+# Command 1
 git clone https://github.com/GarenaEpep/subdomain-finder
-# cd
+# Command 2
 cd subdomain-finder
-# pip
+# Command 3
 pip install -r library.txt
-# python
+# Command Terakhir
 python api.py
-
+# Note
 dah selesai tapi ingat api bisa saja mati dan api juga memiliki limit batas penggunaan gunakan vpn yang berbeda untuk menggunakannya lagi👍
